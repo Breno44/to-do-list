@@ -1,0 +1,11 @@
+.task-container {
+  background-color: #444;
+  display: flex;
+  margin: 8px 0;
+  padding: 15px 20px;
+  border-radius: 5px;
+  justify-content: space-between;
+  color: #eee;
+  align-items: center;
+  cursor: pointer;
+}
