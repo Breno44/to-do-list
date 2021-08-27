@@ -9,4 +9,10 @@
   font-weight: bold;
   cursor: pointer;
   border: none;
+  transition: all ease 0.3s;
+}
+
+.button:hover {
+  background-color: #444;
+  color: chartreuse;
 }
